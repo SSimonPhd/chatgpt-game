@@ -8,4 +8,4 @@ Load website. Use arrow keys to move bomber, use space bar to drop bombs on movi
 ### Deployed Site
 https://ssimonphd.github.io/chatgpt-game/
 
-![image](https://user-images.githubusercontent.com/60651145/211995820-69134ab5-3ae5-4fd0-9309-5b30d2912c23.png)
+![image](https://user-images.githubusercontent.com/60651145/212004085-832ee13d-c0da-446e-9bd8-3a29619357d9.png)
