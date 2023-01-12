@@ -1,6 +1,6 @@
-## ChatGPT Bomber Game
+## ChatGPT AI Bomber Game
 
-Simple JavaScript bomber game built to test Open AI ChatGPT code support features.</br>
+Simple JavaScript bomber game built to test ChatGPT AI code suggestion features.</br>
 
 ### Instructions
 Load website. Use arrow keys to move bomber, use space bar to drop bombs on moving blocks.
