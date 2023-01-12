@@ -13,6 +13,10 @@
 	margin-bottom: 0px;
 }
 
+.header h3 {
+	color: green;
+}
+
 .header a {
 	font-size: 20px;
 	font-weight: 800;
@@ -23,10 +27,6 @@
 .header a:hover {
 	text-decoration: underline;
 	text-decoration-color:  #8a0303;
-}
-
-.header h3 {
-	color: green;
 }
 
 .header .version {
