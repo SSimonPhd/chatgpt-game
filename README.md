@@ -3,7 +3,7 @@
 Simple JavaScript bomber game built to test ChatGPT AI code suggestion features.</br>
 
 ### Instructions
-Load website. Use arrow keys to move bomber, use space bar to drop bombs on moving blocks.
+Load website. Use arrow keys to move bomber, use space bar to drop bombs on moving blocks. Refresh page to play again.
 
 ### Deployed Site
 https://ssimonphd.github.io/chatgpt-game/
