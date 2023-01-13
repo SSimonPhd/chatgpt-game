@@ -1,7 +1,7 @@
 const canvas = document.createElement('canvas');
 const ctx = canvas.getContext('2d');
 document.body.appendChild(canvas);
-canvas.width = 500;
+canvas.width = 1000;
 canvas.height = 500;
 
 const robot = {
@@ -20,7 +20,6 @@ function drawRobot() {
 	ctx.arc(robot.x + 20, robot.y + 20, 10/2, 0, 2 * Math.PI);
 	ctx.arc(robot.x + 30, robot.y + 20, 10/2, 0, 2 * Math.PI);
 	ctx.fill();
-
 
 	ctx.fillStyle = 'black';
 	ctx.beginPath();
@@ -77,7 +76,6 @@ function updateBombs() {
 }
 
 const chickens = [];
-
 
 function addChicken() {
 	const chicken = {
@@ -147,5 +145,3 @@ function animate() {
 }
 
 animate();
-
-
