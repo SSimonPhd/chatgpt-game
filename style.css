@@ -4,33 +4,33 @@
 	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-.header {
-	text-align: center;
-}
-
-.header h1 {
+h1 {
 	font-size: 72px;
 	margin-bottom: 0px;
 }
 
-.header h2 {
+h2 {
 	font-size: 20px;
 	color: green;
 }
 
-.header a {
+a {
 	font-size: 20px;
 	font-weight: 800;
 	color: darkblue;
 	text-decoration: none;
 }
 
-.header a:hover {
+a:hover {
 	text-decoration: underline;
 	text-decoration-color:  #8a0303;
 }
 
-.header .version {
+.header {
+	text-align: center;
+}
+
+.version {
 	font-size: 16px;
 	font-weight: 800;
 	color: darkblue;
