@@ -1,7 +1,7 @@
 const canvas = document.createElement('canvas');
 const ctx = canvas.getContext('2d');
 document.body.appendChild(canvas);
-canvas.width = 1000;
+canvas.width = 900;
 canvas.height = 500;
 
 const robot = {
